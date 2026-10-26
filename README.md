@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi there, I'm Daniel 👋
+📊 Data Analyst | I turn raw data into clear, useful insights.
 
-<!--
-**danielsashraman0153-ctrl/danielsashraman0153-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tools I work with
+SQL – querying, joins, window functions, data cleaning
+Python – pandas, NumPy, matplotlib
+Excel – pivot tables, VLOOKUP/XLOOKUP, dashboards
+Power BI / Tableau – interactive visualizations & reporting
+🚀 What I'm up to
+🔍 Building data analytics projects and publishing them here
+📚 Currently sharpening my skills in SQL and Python for data
+📫 Connect with me
+✉️ Reach me on LinkedIn — always happy to talk data!
