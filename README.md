@@ -1,4 +1,4 @@
-# Daniel — Data Analyst
+# Daniel — Boy Supply Chain
 Welcome to my GitHub profile. I am a data analyst focused on transforming raw data into clear, actionable insights that support informed decision-making.
 ## Technical Skills
 | Category | Tools & Technologies |
